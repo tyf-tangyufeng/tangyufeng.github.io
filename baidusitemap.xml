@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/blog/blog/2017/10/30/test/</loc>
+    <lastmod>2017-11-15T08:17:07.156Z</lastmod>
+    <data>
+        <display>
+        <title>突破算法第11天-红黑树</title>
+        <pubTime>2017-10-30T14:35:37.000Z</pubTime>
+        
+        <tag>算法</tag>
+         
+         
+           
+             
+              <breadCrumb title="algorithm" url="http://yoursite.com/blog/blog/categories/algorithm/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+</urlset>
